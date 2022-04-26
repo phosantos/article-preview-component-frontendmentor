@@ -2,7 +2,7 @@
 
 ![](./design/desktop-active-state.jpg)
 
-## | [LIVE PROJECT](https://your-solution-url.com) |
+## | [LIVE PROJECT](https://phosantos.github.io/article-preview-component-frontendmentor) |
 
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 
